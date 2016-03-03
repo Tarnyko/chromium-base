@@ -1,0 +1,12 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/Tarnyko/chromium-build
+        branch = 49.0.2593.0
+[submodule "testing/gtest"]
+	path = testing/gtest
+	url = https://github.com/Tarnyko/chromium-gtest
+        branch = 49.0.2593.0
+[submodule "third_party/icu"]
+	path = third_party/icu
+	url = https://github.com/Tarnyko/chromium-icu
+        branch = 49.0.2593.0
